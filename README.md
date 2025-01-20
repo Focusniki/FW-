@@ -42,7 +42,7 @@
 ### Установка (Python)
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo/screen-processing.git
+   git clone https://github.com/your-repo/Screen-Parsing.git
    cd screen-processing
    ```
 2. Установите зависимости:
